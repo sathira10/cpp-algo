@@ -10,3 +10,5 @@
     `git clone https://github.com/sathira10/cpp-algo`
 
 4. Use the command `git pull` inside the repository folder to pull the latest commits.
+
+5. Use the command `git checkout` to reset any changes to the code.
